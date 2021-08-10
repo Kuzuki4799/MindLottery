@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641984613007",
+    "firebase_url": "https://w88-app-41971-default-rtdb.firebaseio.com",
+    "project_id": "w88-app-41971",
+    "storage_bucket": "w88-app-41971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641984613007:android:da7333d5e90c9cd850fefa",
+        "android_client_info": {
+          "package_name": "com.chiriku.mind_w88_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641984613007-uelhgqi0v6i3p0nhpg3821jiq1vq771j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZAaTgiZBEn5GIzG6x_jnMEK81zp1R9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641984613007-uelhgqi0v6i3p0nhpg3821jiq1vq771j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
